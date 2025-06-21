@@ -12,6 +12,8 @@ XGBoost, LSTM).
 - Avaliar os modelos com métricas apropriadas (as mesmas usadas no artigo).
 - Explorar a generalização do modelo usando validação cruzada
 
+Base de Dados : https://zenodo.org/records/12760391
+
 https://github.com/AILAB-CEFET-RJ/fall-detect-pytorch
 
 https://github.com/AILAB-CEFET-RJ/falldetection
